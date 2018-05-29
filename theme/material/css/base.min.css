@@ -5978,7 +5978,7 @@ html.no-touchevents .tile-action-show,html.no-touchevents .tile:hover .tile-acti
     min-height: 56px;
     padding: 0 16px;
     text-indent: -99999px;
-    background-image: url(/images/thessrlogo.svg);
+    background-image: url(//cdn.jsdelivr.net/gh/thessr/static@v1.0/images/thessrlogo.svg/images/thessrlogo.svg);
     background-repeat: no-repeat;
     background-position: 50%;
     background-size: 300px 30px;
